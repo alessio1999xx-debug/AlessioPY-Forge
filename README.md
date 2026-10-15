@@ -79,7 +79,7 @@ Building AI agent logic is fast, but turning it into a **cash-flowing business**
 | **Automation** | Manual execution | Pre-built n8n workflows for auto-marketing |
 | **Support** | Community via GitHub Issues | Private Discord + Direct Updates |
 
-👉 **[Unlock the Premium Edition on Gumroad for €29](https://your-gumroad-store.gumroad.com/l/agentsaas-pro)** *(Includes full production license & priority access)*
+👉 **[Unlock the Premium Edition on Gumroad for €29](https://py-forge.com)** *(Includes full production license & priority access)*
 
 ---
 
@@ -540,4 +540,4 @@ export default function AgentTerminal({ userId }: { userId: string }) {
 *   **Scarsità:** *Offerta di lancio a 29€ riservata ai primi 100 sviluppatori (prezzo finale: 79€).*
 
 ## 🔓 Get Full Commercial Access
-👉 [Purchase License](https://avvacinas.gumroad.com/l/slxdkx)
+👉 [Purchase License](https://py-forge.com)
